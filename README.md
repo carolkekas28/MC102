@@ -1,2 +1,2 @@
-# MC102
-Códigos desenvolvidos para a disciplina MC102 - Algoritmos e Programação de Computadores (1s2022).
+Para fins de documentação, decidi upar nesse repositório os códigos que desenvolvi para a minha disciplina de introdução à programação, ministrada no meu primeiro semestre da faculdade. 
+Todos os códigos foram desenvolvidos em Python, e me ajudaram a entender conceitos importantes referentes à lógica de programação.
