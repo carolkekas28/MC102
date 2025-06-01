@@ -1,1 +1,1 @@
-Esse repositório contém os meus primeiros códigos desenvolvidos na faculdade para a disciplina MC102. Eles foram fundamentais para me ajudar a entender conceitos importantes relacionados a lógica de programação.
+Esse repositório contém os meus primeiros códigos desenvolvidos na faculdade para a disciplina MC102 no primeiro semestre de 2022. Eles foram fundamentais para me ajudar a entender conceitos importantes relacionados a lógica de programação.
